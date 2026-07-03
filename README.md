@@ -42,11 +42,11 @@ Building intelligent analytics systems focused on:
 
 ### 📈 Analytics
 
-- Predictive Analytics  
-- KPI Visualization  
-- Business Intelligence  
-- Data Storytelling  
-- Interactive Dashboards  
+- Predictive Analytics
+- KPI Visualization
+- Business Intelligence
+- Data Storytelling
+- Interactive Dashboards
 
 </td>
 
@@ -54,11 +54,11 @@ Building intelligent analytics systems focused on:
 
 ### 🤖 AI / ML
 
-- LLM Integrations  
-- AI-powered Platforms  
-- Recommendation Systems  
-- Predictive Models  
-- Intelligent Automation  
+- LLM Integrations
+- AI-powered Platforms
+- Recommendation Systems
+- Predictive Models
+- Intelligent Automation
 
 </td>
 </tr>
@@ -84,14 +84,17 @@ and support better decisions.
 
 </div>
 
+---
+
 # 02. FEATURED PROJECTS
 
 <div align="center">
 
 | Project | Description | Stack |
 |---|---|---|
+| 📊 **Data Analytics Tutorial** | An in-progress Data Analytics learning repository documenting my journey through Python, SQL, EDA, Statistics, Visualization, Storytelling and Machine Learning through hands-on notebooks, exercises and real-world projects | `Python` `SQL` `Jupyter` |
+| 🏢 **Sinero ERP** | Contributing to the development of an Enterprise Resource Planning (ERP) system during my internship, working on modules including Inventory, Planning and User Management | `TypeScript` `ERP` |
 | 📚 **Infera Study AI** | AI-powered adaptive learning & student analytics platform | `Python` `Next.js` `PyTorch` |
-| 🎯 **PlacementIQ** | AI interview preparation & career readiness system | `OpenAI` `LLMs` `TypeScript` |
 | 🧠 **AskQL** | Natural language to SQL analytics engine | `LangChain` `Gemini API` `SQL` |
 | 🚌 **EduBus Tracker** | Fleet optimization & transport analytics platform | `Streamlit` `Pandas` `Folium` |
 | 🔍 **ExploraAI** | Interactive EDA & visualization simulator | `Plotly` `Python` `Analytics` |
@@ -114,6 +117,8 @@ and support better decisions.
 
 <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter"/>
 <img src="https://img.shields.io/badge/PowerBI-111827?style=for-the-badge&logo=powerbi"/>
 <img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau"/>
 <img src="https://img.shields.io/badge/Plotly-111827?style=for-the-badge&logo=plotly"/>
@@ -142,10 +147,10 @@ and support better decisions.
 
 ## 📈 Analytics
 
-- Dashboard Design  
-- KPI Visualization  
-- Business Insights  
-- Data Storytelling  
+- Dashboard Design
+- KPI Visualization
+- Business Insights
+- Data Storytelling
 
 </td>
 
@@ -153,10 +158,10 @@ and support better decisions.
 
 ## 🤖 AI Systems
 
-- LLM Applications  
-- Predictive Models  
-- AI Automation  
-- Recommendation Systems  
+- LLM Applications
+- Predictive Models
+- AI Automation
+- Recommendation Systems
 
 </td>
 
@@ -164,10 +169,10 @@ and support better decisions.
 
 ## 🎨 Product Thinking
 
-- Clean UX  
-- Data-first Products  
-- Workflow Optimization  
-- Real-world Solutions  
+- Clean UX
+- Data-first Products
+- Workflow Optimization
+- Real-world Solutions
 
 </td>
 
